@@ -18,4 +18,4 @@ let charWanted = 't';
 console.log(original.indexOf(charWanted));
 console.log(firstName.slice(2));
 
-console.log(firstName.slice(0, [firstName.length -1]));
+console.log(firstName.slice(0, [firstName.length -2]));
